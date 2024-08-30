@@ -1,0 +1,1 @@
+I created a simple Bash script that automates system monitoring, disk usage display, and user creation. The script uses commands like top, df, and useradd to streamline these tasks.
