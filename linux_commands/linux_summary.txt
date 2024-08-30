@@ -1,0 +1,1 @@
+I practiced the following Linux commands: cd, ls, pwd, mkdir, chmod, and useradd. These commands helped me navigate directories, list files, create folders, modify permissions, and manage users.
